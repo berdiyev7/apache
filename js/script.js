@@ -26,7 +26,7 @@ $(document).ready(function () {
       grid: {
          top: '12%',
          left: '0%',
-         right: '0%',
+         right: '3%',
          containLabel: true
       },
       dataZoom: [
